@@ -1,0 +1,3 @@
+FROM ubuntu:java17
+COPY /root/docker/firstExample.jar /tmp/
+
